@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AstralHav3n.aternos.me:44151",
+    "ip": "AstralHav3n.aternos.me",
     "port": 44151,
     "version": "",
     "try-creative": false
